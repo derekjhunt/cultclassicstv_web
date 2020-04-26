@@ -1,0 +1,43 @@
+{
+  "lastUpdated": "2020-04-24T05:33:52+00:00",
+  "providerName": "CultClassics.TV",
+  "language": "en-US",
+  "liveFeeds": [
+    {
+      "id": "d8122e87352a48238f752c437609e2a2",
+      "title": "Live",
+      "content": {
+        "dateAdded": "2020-04-24T16:58:26+00:00",
+        "videos": [
+          {
+            "url": "https://cultclassics.tv:5080/LiveApp/streams/067596221033951067545499.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 8640
+      },
+      "thumbnail": "http://cultclassics.tv/images/splash_screen_1920_1080.png",
+      "brandedThumbnail": "http://cultclassics.tv/images/splash_screen_1920_1080.png",
+      "shortDescription": "CultClassics.TV - Underground TV for the Infected.",
+      "longDescription": "CultClassics.TV - Underground TV for the Infected.",
+      "genres": [
+        "Live"
+      ],
+      "tags": [
+        "Live"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Live",
+      "query": "Live",
+      "order": "manual"
+    }
+  ]
+}
