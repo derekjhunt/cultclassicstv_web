@@ -25,7 +25,7 @@ background-size: cover;
 
 <div class="container">
     <div class="your-centered-div">
-      <iframe width="560" height="315" src="//cultclassics.tv:5080/LiveApp/play.html?name=067596221033951067545499" frameborder="0" allowfullscreen margin="auto" align="middle"></iframe>
+      <iframe width="560" height="315" src="//cultclassics.tv:5080/LiveApp/play.html?name=556336427398358095038757&autoplay=false" frameborder="0" allowfullscreen margin="auto" align="middle"></iframe>
     </div>
 </div>
 
